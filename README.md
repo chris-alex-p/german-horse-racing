@@ -25,6 +25,8 @@ The model incorporates a variety of features related to horses, jockeys, trainer
 * Horse's handicap rating
 * Betting odds
 
+Results: The strategy achieved a statistically significant outperformance (p-value: 0.02) against the parimutuel takeout in backtesting.
+
 ## Repository Structure
 
 * `data`: Contains the raw, processed, and additional datasets used in the analysis.
